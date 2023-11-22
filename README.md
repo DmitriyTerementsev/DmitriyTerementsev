@@ -34,4 +34,7 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alchimik981)](https://git.io/streak-stats)
 
 
+---
 
+
+![](https://komarev.com/ghpvc/?username=Alchimik981)
