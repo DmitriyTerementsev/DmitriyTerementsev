@@ -1,11 +1,11 @@
-### 👋 &nbsp; Привет, меня зовут Дмитрий, я начинающий Front-end 😉
+### 👋 &nbsp; Hello, my name is Dmitriy. I'm a junior fronted developer 😉
 ---
-- 👑 Будущий Тех. Лид
-- 🏢 Выпускник Яндекс Практикум
-- 💪 Хочу найти крутую команду
-- 🌍 Мечтаю поработать в крупной корпорации
+- 👑 In the future, the Lead
+- 🏢 Graduate Yandex Praktikum
+- 💪 I want to find a cool team
+- 🌍 I want to work for in big corporation
 ---
-### 🧠 &nbsp; Мой стек:
+### 🧠 &nbsp; Stack:
   <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -23,7 +23,7 @@
 </div>
 
 ---
-### 📱 &nbsp; Мои контакты :
+### 📱 &nbsp; Contacts :
 <img src="https://media.giphy.com/media/ZcdZ7ldgeIhfesqA6E/giphy.gif" title="Git" alt="Git" width="30" height="30"/>  *@trmntsv*
 
 <img src="https://media.giphy.com/media/fYBttYPejVFv1tcJbz/giphy.gif" title="Git" alt="Git" width="30" height="30"/>  *d.terementsev@yandex.ru*
