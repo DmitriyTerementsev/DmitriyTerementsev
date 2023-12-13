@@ -32,12 +32,12 @@
 ---
 ### 🔥 &nbsp; My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alchimik981)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DmitriyTerementsev)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Alchimik981)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DmitriyTerementsev)](https://git.io/streak-stats)
 
 
 ---
