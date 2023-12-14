@@ -1,4 +1,4 @@
-### 👋 &nbsp; Hello, my name is Dmitriy. I'm a junior fronted developer 😉
+### 👋 &nbsp; Hello, my name is Dmitriy 😉
 ---
 - 👑 In the future, the Lead
 - 🏢 Graduate Yandex Praktikum
