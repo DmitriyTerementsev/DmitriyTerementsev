@@ -42,3 +42,6 @@
 
 ---
 
+[![codewars](https://www.codewars.com/users/Alchimik981/badges/large)](https://www.codewars.com/users/Alchimik981) 
+
+---
