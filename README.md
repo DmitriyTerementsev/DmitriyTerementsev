@@ -1,6 +1,5 @@
 ### 👋 &nbsp; Hello, my name is Dmitriy 😉
 ---
-- 👑 In the future, the Lead
 - 💪 Front-end developer of SotkaOnline
 ---
 ### 🧠 &nbsp; Stack:
